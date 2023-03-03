@@ -1,3 +1,18 @@
-.navbar-brand {
-    color: blue
-}
+main {
+    background-image: url(./assets/images/header-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .navbar-brand {
+      color: #6070ff;
+  }
+
+  .btnButton {
+      color: #7f8Cff;
+      padding-left: 0;
+  }
+
+  .mx-1 {
+      color: #505f79;
+  }
